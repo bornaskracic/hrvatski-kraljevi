@@ -1,0 +1,17 @@
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\bin\Debug\net6.0-windows\HrvatskiKraljevi.exe
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\bin\Debug\net6.0-windows\HrvatskiKraljevi.deps.json
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\bin\Debug\net6.0-windows\HrvatskiKraljevi.runtimeconfig.json
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\bin\Debug\net6.0-windows\HrvatskiKraljevi.dll
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\bin\Debug\net6.0-windows\ref\HrvatskiKraljevi.dll
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\bin\Debug\net6.0-windows\HrvatskiKraljevi.pdb
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.csproj.AssemblyReference.cache
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.Form1.resources
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.csproj.GenerateResource.cache
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.GeneratedMSBuildEditorConfig.editorconfig
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.AssemblyInfoInputs.cache
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.AssemblyInfo.cs
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.csproj.CoreCompileInputs.cache
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.dll
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\ref\HrvatskiKraljevi.dll
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.pdb
+D:\bskracic\2RP2\HrvatskiKraljevi\HrvatskiKraljevi\obj\Debug\net6.0-windows\HrvatskiKraljevi.genruntimeconfig.cache
